@@ -9,7 +9,7 @@ oi, meu nome é Gustavo Lima e eu sou estudante do terceiro período de Ciencia 
 - Inglês intermediário
 - Levantamento de requisitos em projetos
 
-## Valores e habilidades intrapessoais
+## Valores e habilidades interpessoais
 
 - Liberdade
 - Honestidade
