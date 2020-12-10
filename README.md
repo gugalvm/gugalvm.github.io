@@ -1,8 +1,20 @@
 # gugalvm.github.io
-hoi, meu nome é Gustavo Lima e eu sou estudante da faculdade Cesar School do segundo período de Ciencia da computação.
+oi, meu nome é Gustavo Lima e eu sou estudante do terceiro período de Ciencia da computação da Cesar School.
 
-Esse repositório foi criado basicamente para um teste haushaush.
-## competencias
+## Competencias
 
-- Git
 - Python
+- C
+- Haskell
+- Inglês intermediário
+- Levantamento de requisitos em projetos
+
+## Valores e habilidades intrapessoais
+
+- Liberdade
+- Honestidade
+- Benevolência
+- Motivação
+- Criatividade
+- Comunicação
+- Esforçado
